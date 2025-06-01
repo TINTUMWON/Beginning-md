@@ -1,13 +1,13 @@
 
 {
-  "name": "MALVIN-XD",
+  "name": "𝙶𝙾𝙹𝙾-XD",
   "version": "0.0.5",
-  "description": "A WhatsApp Bot Created By Malvin King",
+  "description": "A WhatsApp Bot Created By 𝙶𝙾𝙹𝙾",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name MALVIN-XD",
-    "stop": "pm2 stop MALVIN-XD",
-    "restart": "pm2 restart MALVIN-XD"
+    "stop": "pm2 stop 𝙶𝙾𝙹𝙾-XD",
+    "restart": "pm2 restart 𝙶𝙾𝙹𝙾-XD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:asitha-new-v99",
