@@ -27,7 +27,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┆ ◦ 
 ╰────────────────┈⊷
 
-> ᴍᴀʟᴠɪɴ xᴅ ᴄᴍᴅs ᴍᴇɴᴜ
+> ɢᴏᴊᴏ ᴍᴅ
      
 ╭──·๏[📥 *ᴅᴏᴡɴʟᴏᴀᴅ ᴍᴇɴᴜ*📥]
 ┆ ◦ 
