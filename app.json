@@ -1,8 +1,8 @@
 {
-  "name": "MALVIN-XD",
-  "description": "Javascript WhatsApp bot made by ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ",
-  "logo": "https://files.catbox.moe/qumhu4.jpg",
-  "keywords": ["MALVIN-XD"],
+  "name": "ꜰᴏᴊᴏ-XD",
+  "description": "Javascript WhatsApp bot made by ɢᴏᴊᴏ ꜱᴇʀ",
+  "logo":"https://files.catbox.moe/ngwka3.jpg",
+  "keywords": ["ɢᴏᴊᴏ-XD"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "ᴍᴀʟᴠɪɴ-xᴅ"
+      "value": "ɢᴏᴊᴏ-xᴅ"
     }, 
       
     "PREFIX": {
@@ -79,20 +79,20 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY MALVIN-XD ✨*"
+      "value": "*SEEN YOUR STATUS BY 𝙶𝙾𝙹𝙾-XD ✨*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "ᴍᴀʟᴠɪɴ ᴋɪɴɢ"
+      "value": "𝙶𝙾𝙹𝙾"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "26371475XXXX"
+      "value": "𝟿𝟷𝟿𝟿𝟼𝟷𝟺𝟿𝚇𝚇𝚇𝚇"
 
     }, 
 
@@ -132,13 +132,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/juxfce.jpg"
+      "value": "https://files.catbox.moe/ngwka3.jpg"
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ"
+      "value": "𝙿𝙾𝚆𝙴𝚁𝙳 𝙱𝚈 𝙶𝙾𝙹𝙾 "
     },
 
       "DELETE_LINKS": {
