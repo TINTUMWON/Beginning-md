@@ -1,7 +1,7 @@
 {
-  "bot-name": "MALVIN-XD",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
-  "logo": "https://files.catbox.moe/juxfce.jpg",
+  "bot-name": "𝙶𝙾𝙹𝙾-XD",
+  "description": "𝙶𝙾𝙹𝙾 𝚂𝙰𝚃𝙾𝚁𝚄",
+  "logo": "https://files.catbox.moe/ngwka3.jpg",
   "keywords": ["bot"],
   "documentation-link": "https://new-session-2ag9.onrender.com/",
     "owner-verification":"malvink003@gmail.com",
@@ -15,7 +15,7 @@
       "BOT_NAME": {
         "description": "write here your bot name.",
         "required": true,
-        "value": "ᴍᴀʟᴠɪɴ-xᴅ"      
+        "value": "𝙶𝙾𝙹𝙾-xᴅ"      
     },  
     "MODE": {
       "description": "Set private/public/inbox/groups",
@@ -32,12 +32,12 @@
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
       "required": true,
-      "value": "ᴍᴀʟᴠɪɴ ᴋɪɴɢ"
+      "value": "𝙶𝙾𝙹𝙾"
     },
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here",
       "required": true,
-      "value": "263780166288"
+      "value": "919961492108"
     },
     
     "PRESENCE": {
